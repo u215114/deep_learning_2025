@@ -4,3 +4,5 @@ tqdm
 Pillow
 matplotlib
 numpy
+scikit-image>=0.18
+
